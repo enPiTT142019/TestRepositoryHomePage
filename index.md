@@ -17,7 +17,7 @@
 [外部リンク(google)](https://www.google.co.jp "Google.co.jpへジャンプ")<br>
 [内部リンク(abc.md)](./abc.md "abc.mdへジャンプ")<br>
 <br>
-↓外部リンク画像
-![外部リンク(宇部市旗)](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)
-↓いらすとや
+↓外部リンク画像<br>
+![外部リンク(宇部市旗)](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)<br>
+↓いらすとや<br>
 ![内部リンク(ハンドボール)](./handball_ball.png)

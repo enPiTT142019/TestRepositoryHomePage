@@ -16,3 +16,5 @@
 3. 打ち歩詰め<br>
 4. 連続王手の千日手  
 </details>
+[外部リンク(google)](https://www.google.co.jp "Google.co.jpへジャンプ")
+[内部リンク(abc.md)](./abc.md "abc.mdへジャンプ")

@@ -15,7 +15,7 @@ _ららら_<br>
 4. 連続王手の千日手  
 </details>
 [外部リンク(google)](https://www.google.co.jp "Google.co.jpへジャンプ")<br>
-[内部リンク(abc.md)](https://enpitt142019.github.io/TestRepositoryHomePage/abc.md "abc.mdへジャンプ")<br>
+[内部リンク(abc.md)](./abc.md "abc.mdへジャンプ")<br>
 <br>
 ↓外部リンク画像<br>
 ![外部リンク(宇部市旗)](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)<br>

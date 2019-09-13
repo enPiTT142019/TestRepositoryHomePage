@@ -25,13 +25,14 @@ _ららら_<br>
 1. りんご
    1. ふじ
    1. サンつがる
-1. パイナップル
+1. パイナップル<br>
+
 - [x] みかん
 - [ ] りんご
   - [ ] ふじ
   - [x] サンつがる
-- [ ] パイナップル
-<br>
+- [ ] パイナップル<br>
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2

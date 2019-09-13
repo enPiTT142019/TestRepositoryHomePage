@@ -20,4 +20,4 @@
 ↓外部リンク画像
 ![外部リンク(宇部市旗)](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)
 ↓いらすとや
-![内部リンク(白猫)](./enPiTT142019/handball_ball.png)
+![内部リンク(ハンドボール)](./TestRepositoryHomePage/handball_ball.png)
